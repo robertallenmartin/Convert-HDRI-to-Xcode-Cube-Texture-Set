@@ -16,5 +16,7 @@ This script automates the process of rendering cube faces from a panoramic HDRI,
 
 The resulting images can be used in Xcode as part of a Cube Texture Set for SceneKit or Metal API applications.
 
+[Poly Haven HDRIs](https://polyhaven.com/hdris)
+
 [Check out my YouTube channel for other videos.](https://www.youtube.com/@heyrobertmartin/videos)
 
